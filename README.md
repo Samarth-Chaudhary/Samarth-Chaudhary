@@ -42,16 +42,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
-###
 
-<h4 data-importer="text" align="left">🔥   My Stats :</h4>
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Samarth-Chaudhary&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
